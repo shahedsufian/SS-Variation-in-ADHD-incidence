@@ -1,1 +1,4 @@
-# SS-Variation-in-ADHD-incidence
+# Variation in Rates of ADHD Diagnoses Across Public Schools
+
+## About the project
+This project outputs the compiled analizeable dataset to characterize variation in rates of new medical diagnoses of Attention-Deficit/Hyperactivity Disorder (ADHD) among kindergartners and identify factors associated with diagnosis rates in Arkansas public schools. This cross-sectional study covered five kindergarten cohorts enrolled in Arkansas public schools during the 2015/16 through 2019/20 academic years. The project involved the retrospective analysis of administrative datasets from the Arkansas Department of Education (ADE) that were linked by subject to  the Arkansas All-Payer Claims Database (AR-APCD). Childhood Opportunity Index (COI) scores were taken from the Child Opportunity Index 2.0 Database.
